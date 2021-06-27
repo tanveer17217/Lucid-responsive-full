@@ -1,0 +1,814 @@
+@media(max-width:2560px){
+    .clientsay p {
+        font-size: 14pt;
+    }
+
+    .contact_us {
+        background-color: #EDEDED;
+        position: relative;
+        padding-bottom: 13%;
+    }
+
+    .tm {
+        min-height: 75vh;
+    }
+}
+@media(max-width:1440px){
+    .contact_us {
+        padding-bottom: 20%;
+    }
+
+    .tm {
+        min-height: 85vh;
+    }
+
+    .contact-form {
+        padding: 40px 40px 0px;
+    }
+
+    .contact-form input {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:1024px){
+    .tm {
+        min-height: 90vh;
+    }
+
+    .clientsay p {
+        font-size: 13pt;
+    }
+
+    .get_theme h1 {
+        font-size: 26px;
+    }
+
+    .contact_us {
+        padding-bottom: 28%;
+    }
+
+    .contact-form {
+        padding: 30px 31px 0px;
+    }
+
+    .contact-form input {
+        font-size: 12px;
+    }
+
+    .contact-form textarea {
+        font-size: 12px;
+    }
+    .full_form {
+        top: 64%;
+    }
+    
+}
+
+
+@media(min-width:768px) and (max-width:991px){
+    .contact-form {
+        padding: 35px 35px 0px;
+        width: 85%;
+    }
+    
+
+    .contact-form input {
+        font-size: 12px;
+    }
+
+    .contact-form textarea {
+        font-size: 12px;
+    }
+
+    .contact-form input:focus {
+        font-size: 12px;
+    }
+
+    .contact-form textarea:focus {
+        font-size: 12px;
+    }
+
+    .contact_us {
+        padding-bottom: 35%;
+    }
+
+    .contact_us i {
+        font-size: 35px;
+    }
+
+    .contact_us p {
+        font-size: 13px;
+    }
+
+    .price_tag p {
+        padding: 25px 15px;
+        font-size: 14px;
+    }
+
+    .price_tag h1 {
+        font-size: 50px;
+    }
+
+    .price_tag sup {
+        font-size: 30px;
+    }
+
+    .price_tag h3 {
+        padding: 15px;
+    }
+
+    .price_tag h1 {
+        padding-top: 15px;
+    }
+
+    .price_tag .btn-order {
+        font-size: 14px;
+        font-weight: 700;
+        padding: 10px 20px;
+    }
+
+    .price_tag {
+        padding-bottom: 25px;
+    }
+
+    .contact-form input[type='submit'] {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .commonh h5 {
+        font-size: 14px;
+    }
+
+    .get_theme h1 {
+        font-size: 23px;
+    }
+
+    .clientsay p {
+        font-size: 11pt;
+    }
+
+    .owl-dot.active span {
+        width: 12px;
+        height: 12px;
+        margin-left: 12px;
+    }
+
+    .details li {
+        font-size: 16px;
+    }
+
+    .tm h1 {
+        font-size: 33px;
+    }
+
+    .tm h5 {
+        font-size: 14px;
+    }
+
+    .tm p {
+        font-size: 15px;
+    }
+
+    .btn-d {
+        font-size: 12px;
+    }
+
+    .btn-v {
+        font-size: 12px;
+    }
+
+    .navbar-toggler i {
+        font-size: 25px;
+    }
+
+    .image1 {
+        left: 55%;
+    }
+
+    .tm {
+        min-height: 80vh;
+    }
+
+    .ps .div_icon {
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        font-size: 27px;
+    }
+
+    .ps h3 {
+        font-size: 23px;
+    }
+
+    .ps p {
+        font-size: 14px;
+    }
+
+    .commonh2 p {
+        margin: 15px 0px 15px;
+        font-size: 15px;
+    }
+
+    .commonh2 h1 {
+        font-size: 30px;
+    }
+
+    .owl-dot span {
+        width: 10px;
+        height: 10px;
+    }
+
+    .btn {
+        line-height: 2.5;
+    }
+    .iframe{
+        height: 400px;
+    }
+
+    .image1 .img-fluid{
+        max-width: 85%;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-item {
+        padding-left: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 5px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    
+
+
+
+}
+
+@media(min-width:576px) and (max-width:767px){
+    .clientsay p {
+        font-size: 13pt;
+    }
+
+    .owl-dot span {
+        width: 10px;
+        height: 10px;
+    }
+
+    .owl-dot.active span {
+        width: 11px;
+        height: 11px;
+    }
+
+    .ps{
+        margin-bottom: 25px;
+    }
+
+    .get_theme h1 {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+
+    .ff {
+        display: flex;
+        justify-content: center;
+    }
+
+    .btn-v {
+        font-size: 13px;
+    }
+
+    .btn-d {
+        font-size: 13px;
+    }
+
+    .tm h1 {
+        font-size: 40px;
+    }
+
+    .contact_us {
+        padding-bottom: 55%;
+    }
+
+    .contact-form textarea {
+        font-size: 12px;
+    }
+
+    .contact-form input {
+        font-size: 12px;
+    }
+
+    .contact_us p {
+        font-size: 13px;
+    }
+
+    .contact_us i {
+        font-size: 35px;
+    }
+
+    .price_tag {
+        margin-bottom: 35px;   
+    }
+
+    .contact_us i {
+        margin-bottom: 10px;
+    }
+    .contact-form {
+        padding: 50px 50px 0px;
+    }
+
+    .image1 {
+        display: none;
+    }
+    .image11{
+        display: inherit;
+        position: absolute;
+        top: 40%;
+        left: 25%;
+    }
+    .image11 img{
+        width: 90%;
+        opacity: 0.2;
+    }
+    .navbar-toggler i {
+        font-size: 26px;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-item {
+        padding-left: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 5px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+}
+
+@media(min-width:0) and (max-width:575px){
+    
+    .navbar-toggler i {
+        color: #e9e9e9;
+        font-size: 25px;
+    }
+    .image1 {
+        display: none;
+    }
+
+    .tm {
+        min-height: 90vh;
+        align-items: center;
+        text-align: center;
+    }
+
+    .commonh {
+        padding: 45px 0px 45px 0px;
+        text-align: unset;
+    }
+
+    .ps{
+        margin-bottom: 20px;
+    }
+
+    .navbar-nav {   
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .navbar-light .navbar-nav .nav-item {
+        padding-left: 0px;
+        margin-top: 7px;
+    }
+
+    .product {
+        margin-bottom: 35px;
+    }
+
+    .ps p {
+        padding: 0px 63px;
+    }
+
+    .clientsay p {
+        font-size: 11pt;
+    }
+
+    .client h6 {
+        font-size: 10pt;
+    }
+
+    .owl-dot span {
+        width: 7px;
+        height: 7px;
+        margin-left: 10px;
+    }
+
+    .owl-dot.active span {
+        width: 8px;
+        height: 8px;
+    }
+
+    .get_theme {
+        text-align: center;
+    }
+
+    .ff {
+        justify-content: center;
+        margin: 20px 0px 20px;
+    }
+
+    .get_theme h1 {
+        font-size: 25px;
+    }
+
+    .details2 {
+        text-align: center;
+    }
+
+    .btn-v {
+        font-size: 12px;
+        padding: 12px 25px;
+    }
+
+    .btn-d {
+        font-size: 12px;
+        padding: 12px 25px;
+    }
+
+    .price_tag {
+        margin-bottom: 40px;
+    }
+
+    .commonh span {
+        width: 9%;
+        height: 8px;
+    }
+
+    .price_tag p {
+        padding: 35px 75px;
+    }
+
+    .contact_us i {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .contact_us p {
+        margin: 2.5px;
+    }
+
+    .full_form {
+        left: 7%;
+        width: 85%;
+    }
+
+    .contact-form {
+        padding: 20px 15px 0px;
+        background-color: #15141A;
+    }
+
+    .contact-form input {
+        font-size: 12px;
+        padding: 12px 10px;
+    }
+
+    .contact-form textarea {
+        font-size: 12px;
+        height: 70%;
+    }
+
+    .contact-form input[type='submit'] {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .contact_us {
+        padding-bottom: 60%;
+    }
+
+    iframe{
+        height: 330px;
+    }
+
+    footer ul {
+        padding: -1px;
+    }
+
+    .details {
+        text-align: center;
+    }
+}
+
+@media(min-width:0) and (max-width:425px){
+    .tm h1 {
+        font-size: 36px;
+    }
+
+    .tm h5 {
+        font-size: 13px;  
+    }
+
+    .tm p {
+        font-size: 13px;
+    }
+
+    .navbar-brand img {
+        width: 105%;
+    }
+
+    .navbar-toggler i {
+        font-size: 20px;
+    }
+
+    .tm {
+        min-height: 70vh;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;    
+    }
+
+    .btn-d {
+        margin-right: 0px;
+    }
+
+    .btn-d {
+        font-size: 12px;
+        padding: 12px 22px;
+    }
+
+    .commonh h5 {
+        font-size: 12px;
+    }
+
+    .commonh h1 {
+        font-size: 26px;
+    }
+
+    .ps .div_icon {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 25px;
+    }
+
+    .fa, .fas {
+        font-size: 26px;
+    }
+
+    .ps p {
+        padding: 0px 35px;
+        font-size: 13px;
+    }
+
+    .ps h3 {
+        font-size: 20px;
+    }
+
+    .commonh2 h1 {
+        font-size: 26px;
+    }
+
+    .commonh2 h5 {
+        font-size: 12px;
+    }
+
+    .commonh2 p {
+        font-size: 13px;
+    }
+
+    .details li {
+        font-size: 16px;
+        /* text-align: start; */
+    }
+    .details li i {
+        font-size: 12px;
+    }
+
+    .clientsay p {
+        font-size: 9pt;
+    }
+
+    .client h6 {
+        font-size: 8pt;
+    }
+
+    .owl-dot span {
+        width: 7px;
+        height: 7px;
+    }
+
+    .owl-dot.active span {
+        width: 8px;
+        height: 8px;
+    }
+    .get_theme h1 {
+        font-size: 18px;
+    }
+
+    .btn-v {
+        font-size: 10px;
+        margin-left: 10px;
+        padding: 10px 20px;
+    }
+
+    .btn-d {
+        font-size: 10px;
+        padding: 10px 20px;
+    }
+
+    .price_tag p {
+        padding: 35px 20px;
+        font-size: 12px;
+    }
+
+    footer p {
+        font-size: 9px;
+    }
+
+    footer li i {
+        font-size: 13px;
+    }
+    footer li i:hover {
+        font-size: 14px;
+    }
+
+    .contact-form {
+        padding: 15px 15px 15px;
+    }
+
+    .contact_us i {
+        font-size: 21px;
+    }
+
+    .contact_us p {
+        font-size: 10px;
+    }
+
+    .contact-form textarea {
+        font-size: 8px;
+        height: 50%;
+    }
+
+    .contact-form input {
+        font-size: 8px;
+    }
+
+    .contact_us {
+        padding-bottom: 70%;
+    }
+
+    .contact-form input {
+        font-size: 10px;
+        padding: 7px 10px;
+    }
+    .contact-form textarea {
+        font-size: 10px;
+        padding: 7px 10px;
+        height: 125px;
+    }
+
+    .contact-form input[type='submit'] {
+        padding: 10px 20px;
+        font-size: 8px;
+    }
+
+    .price_tag h1 {
+        font-size: 48px;
+    }
+
+    .price_tag sup {
+        font-size: 28px;
+    }
+
+    .contact-form input:focus {
+        font-size: 10px;
+    }
+
+    .contact-form textarea:focus {
+        font-size: 10px;
+    }
+    
+    .contact_us {
+        padding-bottom: 70%;
+    }
+    .clientsay p {
+        font-size: 12pt;
+    }
+    .price_tag p {
+        padding: 31px 41px;
+    }
+
+    .get_theme {
+        padding: 4% 0% 0%;
+    }
+
+    .get_theme h1 {
+        font-size: 18px;
+        margin: 0;
+    }
+}
+
+@media (min-width: 0) and (max-width: 375px){
+
+    .clientsay p {
+        font-size: 10pt;
+    }
+}
+
+
+@media (min-width: 0) and (max-width: 320px){
+        .navbar-brand img {
+            width: 95%;
+    }
+    .navbar-toggler {
+        padding: 0.20rem 0.65rem;
+        font-size: 1rem;
+    }
+
+    .tm h5 {
+        font-size: 12px;
+    }
+
+    .tm h1 {
+        font-size: 31px;
+    }
+
+    .ps p {
+        font-size: 12px;
+    }
+
+    .fa, .fas {
+        font-size: 20px;
+    }
+
+    .ps .div_icon {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 20px;
+    }
+
+    .price_tag {
+        margin-bottom: 30px;
+    }
+    
+    .commonh {
+        padding: 45px 0px 25px 0px;
+        text-align: unset;
+    }
+
+    .contact-form input {
+        font-size: 9px;
+    }
+
+    .price_tag h3 {
+        font-size: 18px;  
+    }
+
+    .contact-form textarea {
+        font-size: 9px;
+        padding: 7px 10px;
+        height: 85px;
+    }
+
+    .contact_us {
+        padding-bottom: 75%;
+    }
+
+    .price_tag .btn-order {
+        font-size: 13px;
+    }
+
+    .price_tag .pm {
+        font-size: 14px;
+    }
+
+    .clientsay p {
+        font-size: 9pt;
+    }
+    .ps .div_icon {
+        width: 82px;
+        height: 82px;
+        line-height: 82px;
+        font-size: 28px;
+    }
+
+    .ps p {
+        font-size: 16px;
+    }
+
+}
+
